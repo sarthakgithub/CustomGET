@@ -1,2 +1,0 @@
-# CustomGET
-Created with CodeSandbox
